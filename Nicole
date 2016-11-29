@@ -1,0 +1,32 @@
+<html> 
+ <title> Nicole 
+  </title> 
+ 
+  <body> 
+   <center>
+    <IMG SRC="hello an.jpg">
+    </IMG> 
+   <h1> Nicole MacDonald </h1>
+    <IMG SRC="linkin.jpg">
+    </IMG> 
+    </center> 
+   <p> Welcome to my website! I am currently a third year student at the University of Maine studying Finance in the 
+     Maine Business School. I am from a small town in Massachusetts and plan on moving back to the Boston area after gradution.
+     On my website you can find my resume, social media, and contact information. </p>
+  </body> 
+  <section> 
+    <audio src="1-11 I Will Always Love You.m4a">
+      </audio>
+  
+  <style> body { background: LightSlateGray;
+                 color: LavenderBlush;
+                 font-size: 14pt; 
+   text-align:center; }
+   body {font-family: 'Lobster Two', cursive;}
+   h1 { font-size: 250%;
+    font-weight: bold;} 
+  <NAV> <LI> { display: inline-block } </NAV> </LI> 
+    </style> 
+   Links to [<A HREF="https://www.linkedin.com/in/nicole-macdonald-02a836122?trk=nav_responsive_tab_profile_pic"> Linkedin </A>] [<A HREF="https://www.facebook.com/nicole.macdonald.96"> facebook </A>] [<A HREF="cv.html"> Resume </A>] [[<A HREF="cv2.html"> photo gallery </A>]
+   
+</html> 
